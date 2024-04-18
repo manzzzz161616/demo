@@ -1,3 +1,3 @@
 # demo
 this is a demo repo
-Author-Manas Purohit
+Author-Manas {GDSC}
